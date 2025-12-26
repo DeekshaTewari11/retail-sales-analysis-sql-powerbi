@@ -36,16 +36,22 @@ The SQL scripts include:
 
 All SQL queries are available in the `SQL/` folder.
 
+## Power BI Dashboard
+
+The Power BI dashboard file is available in the `Power bi/` folder:
+- retail superstore.pbix
+
+
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Overview] (Screenshots/overview.png)
+![Overview](Screeenshots/overview.png)
 
 ### Sales Analysis
-![Sales Analysis] (sales_analysis.png)
+![Sales Analysis](Screeenshots/sales_analysis.png)
 
 ### Profit Analysis
-![Profit Analysis] (profit_analysis.png)
+![Profit Analysis](Screeenshots/profit_analysis.png)
 
 
 ## Key Insights
@@ -54,7 +60,7 @@ All SQL queries are available in the `SQL/` folder.
 - Higher discounts are associated with reduced profitability
 - West region outperforms other regions in total sales
 
-## 🚀 Conclusion
+## Conclusion
 This project demonstrates an end-to-end data analytics workflow:
 from SQL-based analysis to insight-driven Power BI dashboards,
 aligned with real-world business decision-making.
